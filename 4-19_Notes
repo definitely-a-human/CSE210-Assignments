@@ -1,0 +1,41 @@
+C/C++
+#1 Code - function do_something(...)
+
+#2 Compile - gcc program.c a.out
+
+#3 Run - ./a.out
+
+#4 Debug
+
+
+
+
+
+C# (.net)
+#1 Code - void Do_Something(...)                            #See notes on iPad for visuals
+
+#2 Compile - dotnet build
+
+#3 Run - dotnet run
+
+#4 Debug
+
+
+
+
+
+Python
+#1 Code - def do_something(...)
+
+#2 Run - py program.py
+
+#3 Debug
+
+
+
+
+
+
+#TERMINAL COMMANDS
+-dotnet build  -- compilation
+-dotnet run -- compiles and runs
