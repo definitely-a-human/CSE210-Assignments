@@ -1,13 +1,16 @@
 using System;
 
 
-namespace Learning02
+namespace JournalProram
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Learning02 World!");
+            public Job job1 = new Job();
+
+            job1._jobTitle  = "Software Engineer";
+            
         }
     }
 }
