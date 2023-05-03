@@ -1,7 +1,7 @@
 using System;
 
 
-namespace JournalProram
+namespace ResumeProgram
 {
     class Program
     {
