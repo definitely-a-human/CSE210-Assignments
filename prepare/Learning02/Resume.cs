@@ -1,13 +1,18 @@
 using System;
+using System.Collections.Generic;
 
-    public class Resume
+public class Resume
+{
+    public string _name;
+    public List<Job> _jobs = new List<Job>();
+    public void Display()
     {
-        string _name;
-        public List<Jobs> _jobs;
+        Console.WriteLine($"Name: {_name}");
+        Console.WriteLine("Jobs:");
 
-
-        Display()
+        foreach (Job job in _jobs)
         {
-            
+            job.Display();
         }
     }
+}
